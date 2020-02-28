@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "img":"./img/num1.png",
+        "clicked": false
+    },{
+        "id": 2,
+        "img":"/img/num2.png",
+        "clicked": false
+    },{
+        "id": 3,
+        "img":"/img/num3.png",
+        "clicked": false
+    }
+]
