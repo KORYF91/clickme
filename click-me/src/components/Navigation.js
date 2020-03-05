@@ -8,7 +8,7 @@ function Navigation(props) {
         <nav class="navbar navbar-light bg-light">
   <span class="navbar-brand mb-0 h1">Click ME if your feeling luckly</span>
 
-    <span> Score : {props.score} | Top Score : {props.topscore}</span>
+    <span> Score : {props.score} | Top Score : {props.topScore}</span>
 </nav>
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
